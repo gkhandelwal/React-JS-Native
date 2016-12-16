@@ -1,0 +1,26 @@
+{
+  "name": "android-application",
+  "version": "1.0.0",
+  "description": "android application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umn-5117-f16/module-4-group-project-404-page-not-found.git"
+  },
+  "author": "team-404-page-not-found",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umn-5117-f16/module-4-group-project-404-page-not-found/issues"
+  },
+  "homepage": "https://github.com/umn-5117-f16/module-4-group-project-404-page-not-found#readme",
+  "dependencies": {
+    "express": "3.0.0rc4",
+    "mongoose": "^4.6.5",
+    "body-parser": "~1.15.1",
+    "jsonwebtoken": "^7.1.9"
+  }
+}

@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/gaurav/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/home/gaurav/Desktop/Mobile/client/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1-f16cda5814d1de6ee177b0efa418de852a2c7475.jar" />
+    </item>
+    <item
+        jar="/home/gaurav/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/gaurav/Desktop/Mobile/client/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-e84c90b36b76b57d69e3cbfddd2f4142c7b3312f.jar" />
+    </item>
+    <item
+        jar="/home/gaurav/Desktop/a/Mobile/client/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/home/gaurav/Desktop/a/Mobile/client/android/app/build/intermediates/pre-dexed/debug/classes-405d0bbd6788c292ff58bbc367fae496c7f32d58.jar" />
+    </item>
+    <item
+        jar="/home/gaurav/Desktop/Mobile/client/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/home/gaurav/Desktop/Mobile/client/android/app/build/intermediates/pre-dexed/debug/classes-d443e786c7363b3daa4fcce66039e9320b7feb14.jar" />
+    </item>
+    <item
+        jar="/home/gaurav/Desktop/a/Mobile/client/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.38.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ac7d1eaeecd12d434a64174bd460db21e708813a">
+        <dex dex="/home/gaurav/Desktop/a/Mobile/client/android/app/build/intermediates/pre-dexed/debug/classes-46bb1042e1169f94f4315f9d177329a082f39aae.jar" />
+    </item>
+    <item
+        jar="/home/gaurav/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/home/gaurav/Desktop/Mobile/client/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0-c149885342c99a8bf0f74ef664566953b710b5b6.jar" />
+    </item>
+    <item
+        jar="/home/gaurav/Desktop/a/Mobile/client/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.38.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ce478946caf7789e5c617b9b7a8290cf8b863fa">
+        <dex dex="/home/gaurav/Desktop/a/Mobile/client/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-f0a0bf99242a89c7e8b93b1c21f006f2869845bb.jar" />
+    </item>
+    <item
+        jar="/home/gaurav/Desktop/Mobile/client/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/home/gaurav/Desktop/Mobile/client/android/app/build/intermediates/pre-dexed/debug/classes-2726bf945ca2985f31923e3a2b414c29798925a0.jar" />
+    </item>
+    <item
+        jar="/home/gaurav/Desktop/a/Mobile/client/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/home/gaurav/Desktop/a/Mobile/client/android/app/build/intermediates/pre-dexed/debug/classes-edc897d3f820b59cbb6e2ba96963579c79122853.jar" />
+    </item>
+    <item
+        jar="/home/gaurav/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/home/gaurav/Desktop/Mobile/client/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1-5a3a1397322eab4f17e620da2765bac3e152154b.jar" />
+    </item>
+    <item
+        jar="/home/gaurav/Desktop/a/Mobile/client/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/home/gaurav/Desktop/a/Mobile/client/android/app/build/intermediates/pre-dexed/debug/classes-db327f940691c1151e03f94fc29c9ef136c1abd1.jar" />
+    </item>
+    <item
+        jar="/home/gaurav/Desktop/a/Mobile/client/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/home/gaurav/Desktop/a/Mobile/client/android/app/build/intermediates/pre-dexed/debug/classes-b65df7e29da92e2c228f3b613950c98e5e5a6eb7.jar" />
+    </item>
+    <item
+        jar="/home/gaurav/Desktop/Mobile/client/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/home/gaurav/Desktop/Mobile/client/android/app/build/intermediates/pre-dexed/debug/classes-b52da143cab1a14f5dd5b5a8228bba3c38a5e87f.jar" />
+    </item>
+    <item
+        jar="/home/gaurav/Desktop/Mobile/client/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/gaurav/Desktop/Mobile/client/android/app/build/intermediates/pre-dexed/debug/classes-491ea95759ab9ede605b510803bc0240fb66442a.jar" />
+    </item>
+    <item
+        jar="/home/gaurav/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/home/gaurav/Desktop/Mobile/client/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-5509b6d0b9c2d753216bd2a3094858eeec829d4e.jar" />
+    </item>
+    <item
+        jar="/home/gaurav/Desktop/Mobile/client/android/app/build/intermediates/exploded-aar/HelloWorld/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fe0f90c91c630c0f1f04ebb98f0404ce34d5ceb5">
+        <dex dex="/home/gaurav/Desktop/Mobile/client/android/app/build/intermediates/pre-dexed/debug/classes-1702b53bc0e201e5ac214494a28650233ce1aefe.jar" />
+    </item>
+    <item
+        jar="/home/gaurav/Desktop/a/Mobile/client/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/gaurav/Desktop/a/Mobile/client/android/app/build/intermediates/pre-dexed/debug/classes-5215fc88a1aa61f3f44f7243de38a3ba95b208a3.jar" />
+    </item>
+    <item
+        jar="/home/gaurav/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/home/gaurav/Desktop/Mobile/client/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1-4534fa65f306172daee896f789b5e5e00d9aa50e.jar" />
+    </item>
+    <item
+        jar="/home/gaurav/Desktop/Mobile/client/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/home/gaurav/Desktop/Mobile/client/android/app/build/intermediates/pre-dexed/debug/classes-2e953172eaba412321a5bf211fda53d792445eca.jar" />
+    </item>
+    <item
+        jar="/home/gaurav/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/gaurav/Desktop/Mobile/client/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-34cf76dce22b56573ed2980a34b67b31e4b60ecc.jar" />
+    </item>
+    <item
+        jar="/home/gaurav/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/gaurav/Desktop/Mobile/client/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-59010bb009c71597bd8d4565a1720c63782a505d.jar" />
+    </item>
+    <item
+        jar="/home/gaurav/Desktop/Mobile/client/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/home/gaurav/Desktop/Mobile/client/android/app/build/intermediates/pre-dexed/debug/classes-4f336682f8387bd7ecf2240e59f44ad298c79fe7.jar" />
+    </item>
+    <item
+        jar="/home/gaurav/Desktop/Mobile/client/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/home/gaurav/Desktop/Mobile/client/android/app/build/intermediates/pre-dexed/debug/classes-de00d8b7bced60a96c12f019caf42f8f14c788e4.jar" />
+    </item>
+    <item
+        jar="/home/gaurav/Desktop/a/Mobile/client/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/gaurav/Desktop/a/Mobile/client/android/app/build/intermediates/pre-dexed/debug/classes-90cda41f92226ee64f7350cb15cf7afa90234fd7.jar" />
+    </item>
+    <item
+        jar="/home/gaurav/Desktop/a/Mobile/client/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/home/gaurav/Desktop/a/Mobile/client/android/app/build/intermediates/pre-dexed/debug/classes-3ab6b56e144d46ab5b83f43005ee888de246d68e.jar" />
+    </item>
+    <item
+        jar="/home/gaurav/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/home/gaurav/Desktop/Mobile/client/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1-96ae71247e57c79262019c4093482aef004c9c16.jar" />
+    </item>
+    <item
+        jar="/home/gaurav/Desktop/a/Mobile/client/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/gaurav/Desktop/a/Mobile/client/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1-db381320f96cc5500d847298ad8c2e35ad850c83.jar" />
+    </item>
+    <item
+        jar="/home/gaurav/Desktop/Mobile/client/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/gaurav/Desktop/Mobile/client/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1-2e1ed6fd56b8520f310621fc9294b9579029dc59.jar" />
+    </item>
+    <item
+        jar="/home/gaurav/Desktop/a/Mobile/client/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/home/gaurav/Desktop/a/Mobile/client/android/app/build/intermediates/pre-dexed/debug/classes-42553a6cdcdd778c5bf0173ae1d753d36e6a03c3.jar" />
+    </item>
+    <item
+        jar="/home/gaurav/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/gaurav/Desktop/Mobile/client/android/app/build/intermediates/pre-dexed/debug/javax.inject-1-8ceb9ddd2712b859e31fe476076bb69672744a6c.jar" />
+    </item>
+    <item
+        jar="/home/gaurav/Desktop/a/Mobile/client/android/app/build/intermediates/exploded-aar/HelloWorld/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="40e1921f065a1881cd3f77e3386ddec67c836390">
+        <dex dex="/home/gaurav/Desktop/a/Mobile/client/android/app/build/intermediates/pre-dexed/debug/classes-661fcd52e23459647feebb872e169177542334a6.jar" />
+    </item>
+    <item
+        jar="/home/gaurav/Desktop/a/Mobile/client/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/gaurav/Desktop/a/Mobile/client/android/app/build/intermediates/pre-dexed/debug/classes-56628175d7576123f0fc599fdbea27b9303ce5fb.jar" />
+    </item>
+    <item
+        jar="/home/gaurav/Desktop/Mobile/client/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.38.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ce478946caf7789e5c617b9b7a8290cf8b863fa">
+        <dex dex="/home/gaurav/Desktop/Mobile/client/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-4957b21d34d974f8ec497e08b9e0a94f9a4e2eb6.jar" />
+    </item>
+    <item
+        jar="/home/gaurav/Desktop/Mobile/client/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.38.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ac7d1eaeecd12d434a64174bd460db21e708813a">
+        <dex dex="/home/gaurav/Desktop/Mobile/client/android/app/build/intermediates/pre-dexed/debug/classes-25589c7ee344fc535b8c15582028c3fc1fe12d99.jar" />
+    </item>
+    <item
+        jar="/home/gaurav/Desktop/a/Mobile/client/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/home/gaurav/Desktop/a/Mobile/client/android/app/build/intermediates/pre-dexed/debug/classes-9f29262b294ad30ed7f31f17f2ccb72fdd7da7ec.jar" />
+    </item>
+    <item
+        jar="/home/gaurav/Desktop/Mobile/client/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/gaurav/Desktop/Mobile/client/android/app/build/intermediates/pre-dexed/debug/classes-0faaf175a46c6b59e0c343ff82ea953afcb930ee.jar" />
+    </item>
+    <item
+        jar="/home/gaurav/Desktop/Mobile/client/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/home/gaurav/Desktop/Mobile/client/android/app/build/intermediates/pre-dexed/debug/classes-97c2f2233fd1d9b13c02b2d99cfbedcbd17c2d5d.jar" />
+    </item>
+    <item
+        jar="/home/gaurav/Desktop/Mobile/client/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/gaurav/Desktop/Mobile/client/android/app/build/intermediates/pre-dexed/debug/classes-f9aa9ad8cb6e79a2f43a62d4c6baa4d95e9a564a.jar" />
+    </item>
+
+</items>
